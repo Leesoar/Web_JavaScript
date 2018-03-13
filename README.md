@@ -37,4 +37,4 @@
 
 * **HTML文本格式化**
 
-*点此查看：[**文本格式化实例**](http://www.runoob.com/html/html-formatting.html)
+*点此查看：[**文本格式化实例**](http://www.runoob.com/html/html-formatting.html)*
