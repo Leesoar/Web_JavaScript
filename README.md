@@ -22,5 +22,9 @@
 * **HTML图像**
 
 ```HTML
-	<img src="/images/logo.png" width="258" height="39">
+	<img src="/images/logo.png" width="258" height="39" />
 ```
+
+* **HTML元素属性**
+
+![](./images/attritube.png)
