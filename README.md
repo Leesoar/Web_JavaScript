@@ -27,4 +27,4 @@
 
 * **HTML元素属性**
 
-![](./images/attritube.png)
+![](./images/attribute.png)
