@@ -38,3 +38,13 @@
 * **HTML文本格式化**
 
 *点此查看：[**文本格式化实例**](http://www.runoob.com/html/html-formatting.html)*
+
+* **HTML head元素**
+
+![](./images/head_elements.png)
+
+* **HTML:CSS内联样式**
+
+```HTML
+<p style="color:blue;margin-left:20px;">This is a paragraph.</p>
+```
