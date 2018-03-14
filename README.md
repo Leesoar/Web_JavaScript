@@ -59,7 +59,7 @@
 	
 	tfoot ---------定义表格的页脚
 
-![](./images/table-thead-tbody-tfoot.png)
+![](./images/table_thead_tbody_tfoot.png)
 
 ### 一些英文
 
