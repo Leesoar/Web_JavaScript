@@ -51,6 +51,16 @@
 
 *附：[**CSS基本概念复习**](http://www.runoob.com/html/html-css.html)*
 
+* **表格的thead、tbody、tfoot详解**
+
+	thead ---------定义表格的页眉
+	
+	tbody ---------定义表格的主体
+	
+	tfoot ---------定义表格的页脚
+
+![](./images/table-thead-tbody-tfoot.png)
+
 ### 一些英文
 
 * cellpadding:单元格边距
@@ -66,3 +76,5 @@
 * span: 跨越(常用于colspan与rowspan，即合并单元格)
 
 * margin: 边缘、边距(常用于设置所有外边距属性)
+
+* caption: 标题、说明(常用于表格标题)
