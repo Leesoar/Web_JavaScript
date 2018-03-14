@@ -5,6 +5,10 @@
 
 ### HTML
 
+* **HTML快速复习**
+
+*[**HTML快速复习教程**](http://www.runoob.com/html/html-quicklist.html)*
+
 * **HTML5声明**
 
 ```HTML
@@ -18,6 +22,8 @@
 ```HTML
 <a href="http://www.github.com/leesoar">这是一个链接</a>
 ```
+
+*[**ID属性实例**](http://www.runoob.com/try/try.php?filename=tryhtml_link_locations&basepath=0)*
 
 * **HTML图像**
 
@@ -61,13 +67,25 @@
 
 ![](./images/table_thead_tbody_tfoot.png)
 
+* **HTML列表**
+
+*详解：[**列表**](http://www.runoob.com/html/html-lists.html)*
+
+* **HTML表单和输入**
+
+*详解：[**表单和输入**](http://www.runoob.com/html/html-forms.html)*
+
+* **HTML框架**
+
+*详解[**iframe框架**](http://www.runoob.com/html/html-iframes.html)*
+
 ### 一些英文
 
 * cellpadding:单元格边距
 
 * cellspacing:单元格间距
 
-* border:边界(常用于列表)
+* border:边界(常用于表格)
 
 * col:即column，列
 
@@ -78,3 +96,13 @@
 * margin: 边缘、边距(常用于设置所有外边距属性)
 
 * caption: 标题、说明(常用于表格标题)
+
+* div:即division,区、区域、部分、界限(div元素是块级元素，它可用于组合其他 HTML 元素的容器)
+
+* option:选择(常用于下拉框选项中)
+
+## 附录
+
+* *[**HTML支持的颜色名**](http://www.runoob.com/html/html-colornames.html)*
+
+* *[**HTML字符实体**](http://www.runoob.com/html/html-entities.html)*
