@@ -7,7 +7,7 @@
    * [复习](#复习)
        * [HTML](#html)
        * [CSS](#css)
-       * [一些英文](#some-english)
+       * [一些英文](#一些英文)
    * [附录](#附录)
 
 
@@ -98,9 +98,13 @@
 
 ![](./images/background_attribute.png)
 
+* **CSS文本属性**
+
+![](./images/text_attribute.png)
 
 
-### 一些英文(#some-english)
+
+### 一些英文
 
 * cellpadding:单元格边距
 
@@ -121,6 +125,10 @@
 * div:即division,区、区域、部分、界限(div元素是块级元素，它可用于组合其他 HTML 元素的容器)
 
 * option:选择(常用于下拉框选项中)
+
+* capitalize:常用于CSS中，作用是每个单词首字母大写(text-transform:capitalize;)
+
+* indent:缩进(CSS中表示指定文本的第一行的缩进。text-indent:50px;)
 
 
 
