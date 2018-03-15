@@ -12,7 +12,7 @@
 
 
 
-## 复习
+## [复习](#fu-xi)
 
 ### HTML
 
@@ -95,11 +95,12 @@
 ### CSS
 
 * **CSS背景属性**
+
 ![](./images/background_attribute.png)
 
 
 
-### 一些英文
+### [一些英文](#some-english)
 
 * cellpadding:单元格边距
 
@@ -123,7 +124,7 @@
 
 
 
-## 附录
+## [附录](#fu-lu)
 
 * *[**HTML支持的颜色名**](http://www.runoob.com/html/html-colornames.html)*
 
