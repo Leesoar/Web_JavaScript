@@ -4,11 +4,13 @@
 目录
 -----
 
-	 * [复习](#fu-xi)
-	 	 * [HTML](#html)
-	 	 * [CSS](#css)
-	 	 * [一些英文](#some-english)
-	 * [附录](#fu-lu)
+   * [复习](#fu-xi)
+       * [HTML](#html)
+       * [CSS](#css)
+       * [一些英文](#some-english)
+   * [附录](#fu-lu)
+
+
 
 ## 复习
 
@@ -88,6 +90,15 @@
 
 *详解：[**iframe框架**](http://www.runoob.com/html/html-iframes.html)*
 
+
+
+### CSS
+
+* **CSS背景属性**
+![](./images/background_attribute.png)
+
+
+
 ### 一些英文
 
 * cellpadding:单元格边距
@@ -109,6 +120,8 @@
 * div:即division,区、区域、部分、界限(div元素是块级元素，它可用于组合其他 HTML 元素的容器)
 
 * option:选择(常用于下拉框选项中)
+
+
 
 ## 附录
 
