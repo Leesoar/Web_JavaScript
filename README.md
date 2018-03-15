@@ -4,15 +4,15 @@
 目录
 -----
 
-   * [复习](#fu-xi)
+   * [复习](#复习)
        * [HTML](#html)
        * [CSS](#css)
        * [一些英文](#some-english)
-   * [附录](#fu-lu)
+   * [附录](#附录)
 
 
 
-## [复习](#fu-xi)
+## 复习
 
 ### HTML
 
@@ -100,7 +100,7 @@
 
 
 
-### [一些英文](#some-english)
+### 一些英文(#some-english)
 
 * cellpadding:单元格边距
 
@@ -124,7 +124,7 @@
 
 
 
-## [附录](#fu-lu)
+## 附录
 
 * *[**HTML支持的颜色名**](http://www.runoob.com/html/html-colornames.html)*
 
