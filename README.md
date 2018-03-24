@@ -102,6 +102,18 @@
 
 ![](./images/text_attribute.png)
 
+* **CSS字体属性**
+
+![](./images/font_attribute.png)
+
+* **CSS链接**
+
+*详见[**CSS链接实例**](http://www.runoob.com/css/css-link.html)*
+
+* **CSS汇总(快速复习)**
+
+*详见[**CSS汇总**](http://www.runoob.com/cssref/css-reference.html)*
+
 
 
 ### 一些英文
@@ -111,6 +123,8 @@
 * cellspacing:单元格间距
 
 * border:边界(常用于表格)
+
+* padding: 填补(常用于填补边框)
 
 * col:即column，列
 
@@ -129,6 +143,8 @@
 * capitalize:常用于CSS中，作用是每个单词首字母大写(text-transform:capitalize;)
 
 * indent:缩进(CSS中表示指定文本的第一行的缩进。text-indent:50px;)
+
+* variant:变体、变形(CSS中设置字体的转变。font-variant:small-caps;)
 
 
 
