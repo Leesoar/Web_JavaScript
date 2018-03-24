@@ -112,7 +112,7 @@
 
 * **CSS汇总(快速复习)**
 
-*详见[**CSS汇总**](http://www.runoob.com/cssref/css-reference.html)*
+*详见[**CSS汇总**](http://www.runoob.com/cssref/css-reference.html)
 
 
 
